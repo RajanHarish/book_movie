@@ -1,0 +1,46 @@
+.register-form {
+    background-color: #222222;
+    color: #cccccc;
+    padding: 0px;
+    margin: auto;
+    // border-radius: 5px;
+    font-size: small;
+    .heading {
+        background-color: #333333;
+        color: #cccccc;
+        text-align: center;
+        border-radius: inherit;
+        padding: 8px 0px;
+        font-size: medium;
+    }
+    .register-label {
+        font-size: small;
+        color: #cccccc;
+    }
+    .register-input {
+        background-color: #333333;
+        border-color: transparent;
+        color: #cccccc;
+        height: 30px;
+        font-size: small;
+        padding: 10px 10px;
+    }
+    .register-button {
+        height: 30px;
+        border-color: #cccccc;
+        color: #cccccc;
+        padding: 0px 10px;
+    }
+    .register-hr {
+        border-color: #cccccc;
+    }
+    .login {
+        .login-button {
+            height: 30px;
+            border-color: #cccccc;
+            color: #cccccc;
+            padding: 0px 10px;
+            margin-bottom: 16px;
+        }
+    }
+}
